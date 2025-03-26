@@ -16,7 +16,7 @@ public class array {
                 System.out.println("You winn");
                 System.out.println("Bye bye");}
             if(num<lottery) {
-                System.out.println("Your number is greate");
+                System.out.println("Your number is greater");
             } else if(num>lottery) {
                 System.out.println("Your number is less");
             }
